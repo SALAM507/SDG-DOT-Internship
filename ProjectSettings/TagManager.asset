@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - car_04
+  - car_01
+  - car_02
+  - car_03
+  - car_05
+  - car_06
+  - car_07
+  - car_08
+  - car_09
+  - bicycle_1
+  - bicycle_2
+  - bicycle_3
+  - bicycle_4
+  - bicycle_5
+  - bicycle_6
+  - bicycle_7
+  - person_1
+  - person_2
+  - person_3
+  - person_4
+  - person_5
+  - person_6
+  - person_7
+  - CargoTruck
+  - YellowTanker
+  - Tanker
+  - Dumper
+  - Dumper_2
+  - YellowTanker_2
+  - CargoTruck_2
+  - Tanker_2
+  - Dumper_3
+  - CarTruck_3
+  - YellowTanker_3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
